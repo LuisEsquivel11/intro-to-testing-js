@@ -14,7 +14,7 @@ describe('helloWorld', function() {
     });
 });
 
-// Unit tests for sayHello function
+// Unit tests for sayHello function Exercise 1
 
 describe('sayHello', function() {
     it('should be a defined function', function() {
